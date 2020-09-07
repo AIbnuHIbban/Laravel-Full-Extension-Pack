@@ -1,7 +1,7 @@
 <p align="center"><img src="https://res.cloudinary.com/aibnuhibban/image/upload/v1599472606/Github/Laravel%20Pack%20Extension/Page_2_hqqrsu.png" width="400">
 </p>
 
-# Laravel Extension Pack for Visual Studio Code by LeeNuksID
+# Laravel Extension Pack
 
 
 ## Laravel Extensions
