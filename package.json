@@ -1,0 +1,42 @@
+{
+    "name": "laravel-full-extension-pack",
+    "displayName": "Laravel Full Extension Pack",
+    "description": "A collection of extensions for Laravel development by LeeNuksID",
+    "version": "0.1.0",
+    "publisher": "aibnuhibban",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#f66f62",
+        "theme": "dark"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "laravel",
+        "blade",
+        "php",
+        "snippet"
+    ],
+    "extensionPack": [ 
+        "onecentlin.laravel-blade",
+        "onecentlin.laravel5-snippets",
+        "aibnuhibban.laravel-smart-command",
+        "codingyu.laravel-goto-view",
+        "stef-k.laravel-goto-controller",
+        "ctf0.laravel-goto-config",
+        "ctf0.laravel-goto-env",
+        "amiralizadeh9480.laravel-extra-intellisense",
+        "mikestead.dotenv",
+        "EditorConfig.EditorConfig",
+        "felixfbecker.php-debug",
+        "shufo.vscode-blade-formatter"
+    ]
+}
