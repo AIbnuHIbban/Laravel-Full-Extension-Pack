@@ -6,14 +6,14 @@
     "publisher": "aibnuhibban",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/AIbnuHIbban/Laravel-Full-Extension-Pack.git"
     },
     "engines": {
         "vscode": "^1.48.0"
     },
-    "icon": "icon.png",
+    "icon": "img/icon.png",
     "galleryBanner": {
-        "color": "#f66f62",
+        "color": "#9C0000",
         "theme": "dark"
     },
     "categories": [
